@@ -11,7 +11,10 @@ angular
 		$scope.newListing = {};
 
 		$scope.addItem = function(newListing) {
-			$scope.items.push(newListing)
+			var newListingHolder = newListing;
+			$scope.items.push(newListingHolder);
+			$scope.newListing = {};
+			return $scope.items;
 		}
 
 		storeFactory.getStore().success(function(data){
