@@ -1,0 +1,41 @@
+body {
+	background-color: #5CB85C;
+}
+
+
+.main-header {
+	color: white;
+	font-weight: 700;
+	font-size: 60px;
+	margin-bottom: 20px;
+}
+
+.price-form {
+	margin-bottom: 30px;
+	padding: 15px;
+	background-color: rgba(255,255,255, .3);
+}
+
+
+
+.listing-buttons-row {
+	margin-top: 15px;
+
+}
+
+
+.listing-form-row {
+	margin-top: 30px;
+}
+
+.listing-form h4 {
+	color: white;
+}
+
+.add-button {
+	margin-top: 30px;
+}
+
+.category {
+	font-size: 12px;
+}

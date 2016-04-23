@@ -1,0 +1,66 @@
+[
+	{
+		"id": 1,
+		"image": "bamboo.jpg",
+		"category": "Tools",
+		"price": 40,
+		"name": "Bamboo Cutting Board",
+		"desc": "Made from high quality, organic, japanese bamboo. Bacteria resistant. Doesn't dull blade"
+	},
+	{
+		"id": 2,
+		"image": "knife.jpg",
+		"category": "Tools",
+		"price": 120,
+		"name": "Chef's Knife",
+		"desc": "Knife made from forged stainless steel. Keep's edge. Well balanced and durable."
+	},
+	{
+		"id": 3,
+		"image": "lazy.jpg",
+		"category": "Accessories",
+		"price": 30,
+		"name": "Lazy Susan",
+		"desc": "Display spices, fruits, vegetables, side dishes and more with this rotating table-top piece."
+	},
+	{
+		"id": 4,
+		"image": "mortar.jpg",
+		"category": "Tools",
+		"price": 20,
+		"name": "Mortar and Pestle",
+		"desc": "Crush up hers, peppers, and spices to make powders, pastes, and sauces."
+	},
+	{
+		"id": 5,
+		"image": "pan.jpg",
+		"category": "Cookware",
+		"price": 50,
+		"name": "Non-Stick Skillet",
+		"desc": "This pan is great for stirfry, eggs, fish, and more. Non-stick coating means less oil."
+	},
+	{
+		"id": 6,
+		"image": "pot.jpg",
+		"category": "Cookware",
+		"price": 60,
+		"name": "Stock Pot",
+		"desc": "Make soups, stews, chili, roasts, and more in this stock pot. Perfect for cooking for a large family."
+	},
+	{
+		"id": 7,
+		"image": "serving.jpg",
+		"category": "Accessories",
+		"price": 20,
+		"name": "Serving Tray Set",
+		"desc": "Elegant serving tray perfect for special occasions."
+	},
+	{
+		"id": 1,
+		"image": "sieve.jpg",
+		"category": "Tools",
+		"price": 5,
+		"name": "Metal Sieve",
+		"desc": "Perfect for sifting flours, draining cans, and washing vegetables."	
+	}
+]
